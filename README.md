@@ -1,3 +1,3 @@
 # DriveRecorderStay
 
-https://github.com/jet2fan/DriveRecorderStay.git
+https://www.jet2fan.com/3dprinter#h.qvmqseasovwl
